@@ -1,0 +1,19 @@
+The library is at 266 West Fung Road
+
+Search for books
+1. Books can be searched by Title, Author and ISBN.
+2. You can view the book information including cover, title, author, ISBN, description, number of books in stock and location.
+
+Borrowing books
+1. Each person can borrow up to three books without returning them.
+2. Balance must not be less than 0 in order to borrow books.
+3. Only books in stock can be borrowed.
+4. The loan period is 5 days, if it exceeds 5 days, $1 will be deducted from the balance every day.
+5. Books should be borrowed from the website first and then picked up from the library.
+6. The timer will start after borrowing from the website, so please return the book in time.
+
+Returning books late
+1. It costs $1 to return a book late, and you can postpone the return deadline for up to 5 days.
+
+Returning books
+1.You need to return the book to the return shelf of the library in person and have the administrator confirm the return.
